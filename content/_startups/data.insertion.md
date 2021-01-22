@@ -17,20 +17,20 @@ Quand une personne en insertion initie une démarche de prise en charge avec les
 
 Au fil de ce parcours, la personne en insertion va rencontrer un très grand nombre d'acteurs (Conseils Départementaux, CAF, Pôle emploi, Associations, etc.), qui ne partagent pas bien leurs informations, augmentant les délais de prise de rendez-vous, et amenant la personne à répéter de nombreuses fois les mêmes informations. 
 
-Pourtant, plus le temps passe et plus les risques de découragement voire de détresse sont importants, rendant plus compliquée le retour vers une solution d'insertion pérenne et adaptée. 
+Pourtant, plus le temps passe et plus les risques de découragement voire de détresse sont importants, rendant plus compliqué le retour vers une solution d'insertion pérenne et adaptée. 
 
 
 # La solution
 
 Data.insertion se fixe pour objectif d'améliorer les parcours d'insertion en facilitant la circulation des données entre les différents acteurs. 
-Pour cela, data.insertion va améliorer la mise à disposition de données de qualité, et répondant au plus près aux problèmes des acteurs de terrain (travailleurs sociaux, conseiller pôle-emploi, responsables associatifs, etc).  
+Pour cela, data.insertion va améliorer la mise à disposition de données de qualité, en répondant aux problématiques concrètes des acteurs de terrain (travailleurs sociaux, conseiller pôle-emploi, responsables associatifs, etc).  
 
 
 # Premières mesures d'impact
 
 Data.insertion aura réussi sa mission si :
 1. les délais avant l'orientation et de l'orientation jusqu'à l'accompagnement ont été réduits
-2. un plus grand nombre de personnes en insertion sont suivies par les services publics
+2. un plus grand nombre de personnes en insertion est suivi par les services publics
 3. la qualité de l'accompagnement est améliorée, vers des solutions plus individualisées et adaptées
 
 A moyen-terme, et pour mesurer la réalisation de nos objectifs, nous allons d'abord nous intéresser au nombre de personnes dont le parcours a été influencé par data.insertion. Nous engagerons pour cela deux types d'actions :
