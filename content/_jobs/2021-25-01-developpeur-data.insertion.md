@@ -36,10 +36,10 @@ Pour cette expérimentation, nous travaillerons main dans la main avec une autre
 
 ## Rôle
 
-- Prioriser le besoin et les fonctionnalités avec l'utilisateur
-- Récupérer des flux de données d'API distantes 
-- Envoyer automatiquement des mails pour la prise de rdv
-- Déployer et suivre le bon fonctionnement de l'application
+- Permettre la création d'un usager sur RDV-solidarités par API
+- Programmer un envoi automatique d'email aux usagers pour prise de RDV
+- Récupérer la liste de RDV depuis RDV-solidarités et l'intégrer au SI du département
+- Mettre en place et suivre des KPI pour mesurer l'impact de l'expérimentation
 
 
 ## Postuler
