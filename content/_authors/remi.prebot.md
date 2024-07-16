@@ -1,18 +1,20 @@
 ---
 fullname: remi prebot
-role: Développement produit insertion.data
-domaine: Déploiement
+role: Investigation SRDT
+domaine: Investigation
 github: rprebot
 missions:
-  - start: 2021-01-19
-    end: 2024-06-30
+  - start: 2024-06-01
+    end: 2024-09-30
     status: independent
-    employer: Octo
+    employer: Opteamis
     startups:
       - rdv.insertion
+      - investigation_srdt
 startups:
   - rdv.insertion
+  - investigation_srdt
 badges:
   - segur
 ---
-Data product manager 6 ans d'expérience dans des environnements conseil et start-up sur des problématiques de développement de produits data
+Product manager, data & IA, 10 ans d'expérience au croisement IA, management et produit
